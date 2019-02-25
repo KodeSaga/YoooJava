@@ -8,6 +8,5 @@ Given the string ")(", you should return 2, since we must remove all of them
 */
 class ParenCheck{
     public static void main(String args[]){
-        
     }
 }
